@@ -12,6 +12,7 @@
     "@types/openui5": "^1.122.0",
     "ui5-middleware-livereload": "^3.0.3",
     "ui5-middleware-serveframework": "^3.1.0",
+    "ui5-middleware-simpleproxy": "^3.2.14",
     "ui5-tooling-transpile": "^3.4.0"
   }
 }
