@@ -1,0 +1,17 @@
+{
+  "name": "ui5.customer-list",
+  "version": "1.0.0",
+  "description": "UI5 Typescript Customer List",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ui5 serve -o index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/openui5": "^1.122.0",
+    "ui5-middleware-livereload": "^3.0.3",
+    "ui5-middleware-serveframework": "^3.1.0",
+    "ui5-tooling-transpile": "^3.4.0"
+  }
+}
